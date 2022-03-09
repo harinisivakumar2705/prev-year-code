@@ -1,0 +1,10 @@
+C:\Users\skyis\source\repos\appdev_overall_app\bin\Debug\appdev_overall_app.exe.config
+C:\Users\skyis\source\repos\appdev_overall_app\bin\Debug\appdev_overall_app.exe
+C:\Users\skyis\source\repos\appdev_overall_app\bin\Debug\appdev_overall_app.pdb
+C:\Users\skyis\source\repos\appdev_overall_app\obj\Debug\appdev_overall_app.Form1.resources
+C:\Users\skyis\source\repos\appdev_overall_app\obj\Debug\appdev_overall_app.Properties.Resources.resources
+C:\Users\skyis\source\repos\appdev_overall_app\obj\Debug\appdev_overall_app.csproj.GenerateResource.cache
+C:\Users\skyis\source\repos\appdev_overall_app\obj\Debug\appdev_overall_app.csproj.CoreCompileInputs.cache
+C:\Users\skyis\source\repos\appdev_overall_app\obj\Debug\appdev_overall_app.exe
+C:\Users\skyis\source\repos\appdev_overall_app\obj\Debug\appdev_overall_app.pdb
+C:\Users\skyis\source\repos\appdev_overall_app\obj\Debug\appdev_overall_app.csproj.AssemblyReference.cache
